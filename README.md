@@ -192,7 +192,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -236,7 +236,7 @@ Link: [https://github.com/Apoorva64/spectrum-of-light-scattered-by-a-two-level-s
 
 [license-shield]: https://img.shields.io/github/license/Apoorva64/spectrum-of-light-scattered-by-a-two-level-system.svg?style=for-the-badge
 
-[license-url]: https://github.com/Apoorva64/spectrum-of-light-scattered-by-a-two-level-system/blob/master/LICENSE.txt
+[license-url]: https://github.com/Apoorva64/spectrum-of-light-scattered-by-a-two-level-system/blob/master/LICENCE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 

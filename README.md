@@ -240,4 +240,4 @@ Link: [https://github.com/Apoorva64/spectrum-of-light-scattered-by-a-two-level-s
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://www.linkedin.com/in/appadoo-apoorva-srinivas-481367207/

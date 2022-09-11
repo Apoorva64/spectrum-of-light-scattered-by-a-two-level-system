@@ -1,0 +1,7 @@
+beautifulsoup4
+matplotlib
+qt-material
+numpy
+PyQt5
+lxml
+scipy
